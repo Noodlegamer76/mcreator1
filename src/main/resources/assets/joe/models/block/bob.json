@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "joe:blocks/g",
+    "up": "joe:blocks/g",
+    "north": "joe:blocks/g",
+    "east": "joe:blocks/g",
+    "south": "joe:blocks/g",
+    "west": "joe:blocks/g",
+    "particle": "joe:blocks/g"
+  }
+}
